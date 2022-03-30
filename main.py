@@ -93,7 +93,7 @@ all_items=driver.find_element(By.XPATH, "//a[@id='about_sidebar_link']")
 
 time.sleep(3)
 
-#print("Run Successful")
+print("Run Successful")
 
 driver.quit()
 
